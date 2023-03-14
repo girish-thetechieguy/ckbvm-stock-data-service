@@ -1,0 +1,6 @@
+Metadata-Version: 2.1
+Name: ckbvm-stock-data-service
+Version: 1.0.0
+Summary: CKBVM - platform for extract all the history of nse market
+Author: Girish B
+Classifier: Operating System :: OS Independent
